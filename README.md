@@ -6,7 +6,6 @@ I’m a Data Analyst focused on turning raw business data into **clear insights,
 
 I work with sales, retail, inventory, and business performance data to identify trends, track KPIs, analyze performance, and help businesses make data-driven decisions.
 
----
 
 ## 🛠️ Skills & Tools
 
@@ -33,7 +32,6 @@ I work with sales, retail, inventory, and business performance data to identify 
 * Dashboard Development
 * Data Visualization
 
----
 
 ## 📊 Featured Projects
 
@@ -54,7 +52,6 @@ Interactive dashboard analyzing sales, inventory, promotions, stockouts, product
 
 ➡️ [View Project](#)
 
----
 
 ### 📈 Sales Performance Analysis — 1M+ Records
 
@@ -73,7 +70,6 @@ Analyzed more than 1 million sales records to evaluate business performance and 
 
 ➡️ [View Project](#)
 
----
 
 ### 🍕 Pizza Sales Performance Analysis
 
@@ -91,7 +87,6 @@ Analyzed pizza sales data to understand revenue, order volume, product performan
 
 ➡️ [View Project](#)
 
----
 
 ### 📊 Superstore Sales Dashboard
 
@@ -101,7 +96,6 @@ Interactive Tableau dashboard analyzing sales, profit, products, categories, reg
 
 ➡️ [View Project](#)
 
----
 
 ## 📌 What I Can Help With
 
@@ -114,7 +108,6 @@ Interactive Tableau dashboard analyzing sales, profit, products, categories, reg
 * 📋 KPI & Business Reporting
 * 🔍 Sales & Performance Analysis
 
----
 
 ## 🌱 Currently Improving
 
@@ -123,7 +116,6 @@ Interactive Tableau dashboard analyzing sales, profit, products, categories, reg
 * Advanced SQL
 * Analytics
 
----
 
 ## 🤝 Let's Connect
 
@@ -133,7 +125,6 @@ I'm interested in **Data Analyst, Business Intelligence, and freelance analytics
 * 🎯 [Fiverr](#)
 * 💼 [LinkedIn](#)
 
----
 
 ⭐ Check out my repositories below to see my analytics projects and dashboards.
 
